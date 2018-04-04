@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_bussines_core_1_1_ocph_db_context" kind="class" prot="public">
+    <compoundname>BussinesCore::OcphDbContext</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">MySqlDbConnection</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_bussines_core_1_1_ocph_db_context_1a50ba29c20a0e5246c1cd1376605eedb8" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string BussinesCore.OcphDbContext.constring</definition>
+        <argsstring></argsstring>
+        <name>constring</name>
+        <initializer>= &quot;server=localhost;database=dbobat.Data;user=root;password=&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/OcphDbContext.cs" line="9" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/OcphDbContext.cs" bodystart="9" bodyend="-1"/>
+        <referencedby refid="class_bussines_core_1_1_ocph_db_context_1a023b49958f97e4a6d11916b7b16abad2" compoundref="_ocph_db_context_8cs" startline="10" endline="14">BussinesCore.OcphDbContext.OcphDbContext</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_bussines_core_1_1_ocph_db_context_1a023b49958f97e4a6d11916b7b16abad2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BussinesCore.OcphDbContext.OcphDbContext</definition>
+        <argsstring>()</argsstring>
+        <name>OcphDbContext</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/OcphDbContext.cs" line="10" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/OcphDbContext.cs" bodystart="10" bodyend="14"/>
+        <references refid="class_bussines_core_1_1_ocph_db_context_1a50ba29c20a0e5246c1cd1376605eedb8" compoundref="_ocph_db_context_8cs" startline="9">BussinesCore.OcphDbContext.constring</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="11">
+        <label>MySqlDbConnection</label>
+      </node>
+      <node id="10">
+        <label>BussinesCore.OcphDbContext</label>
+        <link refid="class_bussines_core_1_1_ocph_db_context"/>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="13">
+        <label>MySqlDbConnection</label>
+      </node>
+      <node id="12">
+        <label>BussinesCore.OcphDbContext</label>
+        <link refid="class_bussines_core_1_1_ocph_db_context"/>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/OcphDbContext.cs" line="8" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/OcphDbContext.cs" bodystart="7" bodyend="15"/>
+    <listofallmembers>
+      <member refid="class_bussines_core_1_1_ocph_db_context_1a50ba29c20a0e5246c1cd1376605eedb8" prot="private" virt="non-virtual"><scope>BussinesCore::OcphDbContext</scope><name>constring</name></member>
+      <member refid="class_bussines_core_1_1_ocph_db_context_1a023b49958f97e4a6d11916b7b16abad2" prot="public" virt="non-virtual"><scope>BussinesCore::OcphDbContext</scope><name>OcphDbContext</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

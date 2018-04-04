@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_bussines_core_1_1_petugas" kind="class" prot="public">
+    <compoundname>BussinesCore::Petugas</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_bussines_core_1_1_petugas_1a979735a6b49a1bc6741b8e3ad06ba211" prot="private" static="no" mutable="no">
+        <type><ref refid="class_bussines_core_1_1_pemesanan" kindref="compound">Pemesanan</ref></type>
+        <definition>Pemesanan BussinesCore.Petugas.pemesanan</definition>
+        <argsstring></argsstring>
+        <name>pemesanan</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/Petugas.cs" line="9" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/Petugas.cs" bodystart="9" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_bussines_core_1_1_petugas_1abdc0cad7d07e83c6bb8fc2e2c51bc193" prot="private" static="no" mutable="no">
+        <type><ref refid="class_bussines_core_1_1_supplier" kindref="compound">Supplier</ref></type>
+        <definition>Supplier BussinesCore.Petugas.sup</definition>
+        <argsstring></argsstring>
+        <name>sup</name>
+        <initializer>= new <ref refid="class_bussines_core_1_1_supplier" kindref="compound">Supplier</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/Petugas.cs" line="10" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/Petugas.cs" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_bussines_core_1_1_petugas_1a1ff2a8a37942b5487862168758ceff97" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BussinesCore.Petugas.BuatPesanan</definition>
+        <argsstring>(Pemesanan pesanan)</argsstring>
+        <name>BuatPesanan</name>
+        <param>
+          <type><ref refid="class_bussines_core_1_1_pemesanan" kindref="compound">Pemesanan</ref></type>
+          <declname>pesanan</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/Petugas.cs" line="12" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/Petugas.cs" bodystart="12" bodyend="16"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_bussines_core_1_1_petugas_1a9cb80606f62e25ec1e049c7e7aed560a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BussinesCore.Petugas.SavedChange</definition>
+        <argsstring>()</argsstring>
+        <name>SavedChange</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/Petugas.cs" line="18" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/Petugas.cs" bodystart="18" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="21">
+        <label>BussinesCore.Pemesanan</label>
+        <link refid="class_bussines_core_1_1_pemesanan"/>
+      </node>
+      <node id="20">
+        <label>BussinesCore.Supplier</label>
+        <link refid="class_bussines_core_1_1_supplier"/>
+      </node>
+      <node id="19">
+        <label>BussinesCore.Petugas</label>
+        <link refid="class_bussines_core_1_1_petugas"/>
+        <childnode refid="20" relation="usage">
+          <edgelabel>sup</edgelabel>
+        </childnode>
+        <childnode refid="21" relation="usage">
+          <edgelabel>pemesanan</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/Petugas.cs" line="8" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/Petugas.cs" bodystart="7" bodyend="22"/>
+    <listofallmembers>
+      <member refid="class_bussines_core_1_1_petugas_1a1ff2a8a37942b5487862168758ceff97" prot="public" virt="non-virtual"><scope>BussinesCore::Petugas</scope><name>BuatPesanan</name></member>
+      <member refid="class_bussines_core_1_1_petugas_1a979735a6b49a1bc6741b8e3ad06ba211" prot="private" virt="non-virtual"><scope>BussinesCore::Petugas</scope><name>pemesanan</name></member>
+      <member refid="class_bussines_core_1_1_petugas_1a9cb80606f62e25ec1e049c7e7aed560a" prot="private" virt="non-virtual"><scope>BussinesCore::Petugas</scope><name>SavedChange</name></member>
+      <member refid="class_bussines_core_1_1_petugas_1abdc0cad7d07e83c6bb8fc2e2c51bc193" prot="private" virt="non-virtual"><scope>BussinesCore::Petugas</scope><name>sup</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

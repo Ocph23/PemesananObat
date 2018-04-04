@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="namespace_app_shared_1_1_data_transfer" kind="namespace">
+    <compoundname>AppShared::DataTransfer</compoundname>
+    <innerclass refid="class_app_shared_1_1_data_transfer_1_1_obat" prot="public">AppShared::DataTransfer::Obat</innerclass>
+    <innerclass refid="class_app_shared_1_1_data_transfer_1_1_pemesanan" prot="public">AppShared::DataTransfer::Pemesanan</innerclass>
+    <innerclass refid="class_app_shared_1_1_data_transfer_1_1_petugas" prot="public">AppShared::DataTransfer::Petugas</innerclass>
+    <innerclass refid="class_app_shared_1_1_data_transfer_1_1supllier" prot="package">AppShared::DataTransfer::supllier</innerclass>
+    <innerclass refid="class_app_shared_1_1_data_transfer_1_1_supplier" prot="public">AppShared::DataTransfer::Supplier</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Obat.cs" line="7" column="1"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>f9073c66-455e-4726-8cfd-1ce7dc1ac58d</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>AppShared</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Interfaces\Data\Idetailpemesanan.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Interfaces\Data\Idetailpenerimaan.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Interfaces\Data\Iobat.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Interfaces\Data\Ipemesanan.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Interfaces\Data\Ipetugas.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Interfaces\Data\Irealisasi.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Interfaces\Data\Isupplier.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Interfaces\Models\IObat.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Interfaces\Models\IPemesanan.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Interfaces\Models\IPetugas.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Interfaces\Models\ISupplier.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SatuanObat.cs" />
+  </ItemGroup>
+</Project>

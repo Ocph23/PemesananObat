@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_bussines_core_1_1_pemesanan" kind="class" prot="public">
+    <compoundname>BussinesCore::Pemesanan</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_bussines_core_1_1_pemesanan_1a3062fd86cdb00919531ac90c741f14f3" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>int</type>
+        <definition>int BussinesCore.Pemesanan.ID</definition>
+        <argsstring></argsstring>
+        <name>ID</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/Pemesanan.cs" line="9" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/Pemesanan.cs" bodystart="9" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-func">
+      <memberdef kind="function" id="class_bussines_core_1_1_pemesanan_1abd78052de0a6b23ec5d444abc74fb506" prot="package" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BussinesCore.Pemesanan.Save</definition>
+        <argsstring>()</argsstring>
+        <name>Save</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/Pemesanan.cs" line="11" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/Pemesanan.cs" bodystart="11" bodyend="15"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/Pemesanan.cs" line="8" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/Pemesanan.cs" bodystart="7" bodyend="16"/>
+    <listofallmembers>
+      <member refid="class_bussines_core_1_1_pemesanan_1a3062fd86cdb00919531ac90c741f14f3" prot="public" virt="non-virtual"><scope>BussinesCore::Pemesanan</scope><name>ID</name></member>
+      <member refid="class_bussines_core_1_1_pemesanan_1abd78052de0a6b23ec5d444abc74fb506" prot="package" virt="non-virtual"><scope>BussinesCore::Pemesanan</scope><name>Save</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

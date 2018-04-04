@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.6">
+  <compound refid="class_bussines_core_1_1_account" kind="class"><name>BussinesCore::Account</name>
+  </compound>
+  <compound refid="class_app_web_api_1_1_application_db_context" kind="class"><name>AppWebApi::ApplicationDbContext</name>
+    <member refid="class_app_web_api_1_1_application_db_context_1a310d14b81e5475219a9097062c643043" kind="function"><name>OnConfiguring</name></member>
+    <member refid="class_app_web_api_1_1_application_db_context_1a32c003cb04aa5903978bda7b3939ac0d" kind="function"><name>GetConnection</name></member>
+  </compound>
+  <compound refid="class_bussines_core_1_1_obat" kind="class"><name>BussinesCore::Obat</name>
+  </compound>
+  <compound refid="class_app_shared_1_1_data_transfer_1_1_obat" kind="class"><name>AppShared::DataTransfer::Obat</name>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_obat_1a06922dd29cc5a5f5506ca550258ed300" kind="property"><name>Id</name></member>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_obat_1a99fecd3916aedceb42e758fda758c043" kind="property"><name>Name</name></member>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_obat_1a10dd7e05eb8d1fca0dda980ae707397e" kind="property"><name>Satuan</name></member>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_obat_1a5662f709d875828b513015e8b50d7959" kind="property"><name>Supplier</name></member>
+  </compound>
+  <compound refid="class_bussines_core_1_1_ocph_db_context" kind="class"><name>BussinesCore::OcphDbContext</name>
+    <member refid="class_bussines_core_1_1_ocph_db_context_1a50ba29c20a0e5246c1cd1376605eedb8" kind="variable"><name>constring</name></member>
+    <member refid="class_bussines_core_1_1_ocph_db_context_1a023b49958f97e4a6d11916b7b16abad2" kind="function"><name>OcphDbContext</name></member>
+  </compound>
+  <compound refid="class_app_shared_1_1_data_transfer_1_1_pemesanan" kind="class"><name>AppShared::DataTransfer::Pemesanan</name>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_pemesanan_1abf829e0e9a98200d476707906bcb8838" kind="variable"><name>id</name></member>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_pemesanan_1a91ead06f8ef22bad75807b83e1c93786" kind="property"><name>Id</name></member>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_pemesanan_1a1fd99a716582b0488a2ec87e522366fa" kind="property"><name>Tanggal</name></member>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_pemesanan_1ab5af11e968e889ff6fe3f3558d9d570d" kind="property"><name>Petugas</name></member>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_pemesanan_1ae4004993ad83d7e53d25ba81edb06483" kind="property"><name>Obats</name></member>
+  </compound>
+  <compound refid="class_bussines_core_1_1_pemesanan" kind="class"><name>BussinesCore::Pemesanan</name>
+    <member refid="class_bussines_core_1_1_pemesanan_1a3062fd86cdb00919531ac90c741f14f3" kind="property"><name>ID</name></member>
+    <member refid="class_bussines_core_1_1_pemesanan_1abd78052de0a6b23ec5d444abc74fb506" kind="function"><name>Save</name></member>
+  </compound>
+  <compound refid="class_bussines_core_1_1_petugas" kind="class"><name>BussinesCore::Petugas</name>
+    <member refid="class_bussines_core_1_1_petugas_1a979735a6b49a1bc6741b8e3ad06ba211" kind="variable"><name>pemesanan</name></member>
+    <member refid="class_bussines_core_1_1_petugas_1abdc0cad7d07e83c6bb8fc2e2c51bc193" kind="variable"><name>sup</name></member>
+    <member refid="class_bussines_core_1_1_petugas_1a1ff2a8a37942b5487862168758ceff97" kind="function"><name>BuatPesanan</name></member>
+    <member refid="class_bussines_core_1_1_petugas_1a9cb80606f62e25ec1e049c7e7aed560a" kind="function"><name>SavedChange</name></member>
+  </compound>
+  <compound refid="class_app_shared_1_1_data_transfer_1_1_petugas" kind="class"><name>AppShared::DataTransfer::Petugas</name>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_petugas_1a2b7d75e60680fadd2af86dde9d1b6ada" kind="variable"><name>id</name></member>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_petugas_1a323dfc4033dbd958ef52b1816bcbc58e" kind="variable"><name>nama</name></member>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_petugas_1aad82a5dbf5b493b06052dab4f076469d" kind="property"><name>Id</name></member>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_petugas_1ab98dec023525d0dd7fdcffbbea99f246" kind="property"><name>Nama</name></member>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_petugas_1a87ed200b1e38db7bed9040819046d981" kind="property"><name>Pesanan</name></member>
+  </compound>
+  <compound refid="class_app_web_api_1_1_program" kind="class"><name>AppWebApi::Program</name>
+    <member refid="class_app_web_api_1_1_program_1adcd6a30eddfe8c9bd80ecd079d809988" kind="function"><name>Main</name></member>
+    <member refid="class_app_web_api_1_1_program_1a4c94ebf9ce2c7fa00a70c38d5180f9b1" kind="function"><name>BuildWebHost</name></member>
+  </compound>
+  <compound refid="class_app_web_api_1_1_startup" kind="class"><name>AppWebApi::Startup</name>
+    <member refid="class_app_web_api_1_1_startup_1aa897d2dc61cb5209cf6b2cb35ecc5e1e" kind="property"><name>Configuration</name></member>
+    <member refid="class_app_web_api_1_1_startup_1a8b03b2649e246cf523bd8513b8593c51" kind="function"><name>Startup</name></member>
+    <member refid="class_app_web_api_1_1_startup_1a8de0669458f91de3cc8d61216dfa767a" kind="function"><name>ConfigureServices</name></member>
+    <member refid="class_app_web_api_1_1_startup_1a746afe6c51149ec6767d495b12d3c349" kind="function"><name>Configure</name></member>
+  </compound>
+  <compound refid="class_app_shared_1_1_data_transfer_1_1supllier" kind="class"><name>AppShared::DataTransfer::supllier</name>
+  </compound>
+  <compound refid="class_app_shared_1_1_data_transfer_1_1_supplier" kind="class"><name>AppShared::DataTransfer::Supplier</name>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_supplier_1a8469f6ad2fd67edaadfd4305b59a0504" kind="property"><name>Id</name></member>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_supplier_1a6209626149e8c70261cad5b78a292dfd" kind="property"><name>Name</name></member>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_supplier_1a3c35a2986b762be50679ff28ee04f8aa" kind="property"><name>Contact</name></member>
+    <member refid="class_app_shared_1_1_data_transfer_1_1_supplier_1ac07c8784cbf7efb43bd4b4f4aa50540f" kind="property"><name>Obats</name></member>
+  </compound>
+  <compound refid="class_bussines_core_1_1_supplier" kind="class"><name>BussinesCore::Supplier</name>
+    <member refid="class_bussines_core_1_1_supplier_1a8343d738a1b7e6e02b4fed5edf6b4cb6" kind="function"><name>SaveApplication</name></member>
+  </compound>
+  <compound refid="namespace_app_shared" kind="namespace"><name>AppShared</name>
+  </compound>
+  <compound refid="namespace_app_shared_1_1_data_transfer" kind="namespace"><name>AppShared::DataTransfer</name>
+  </compound>
+  <compound refid="namespace_app_web_api" kind="namespace"><name>AppWebApi</name>
+    <member refid="namespace_app_web_api_1a97aa57091f3e10bd1d9fa6947817ceea" kind="enum"><name>SatuanObat</name></member>
+    <member refid="namespace_app_web_api_1a97aa57091f3e10bd1d9fa6947817ceeaa36384a9ea3ec791e6bd4ab6b36f2ff2a" kind="enumvalue"><name>Tablet</name></member>
+    <member refid="namespace_app_web_api_1a97aa57091f3e10bd1d9fa6947817ceeaa72adf1d92af73843d3197346de98c13e" kind="enumvalue"><name>Botol</name></member>
+    <member refid="namespace_app_web_api_1a97aa57091f3e10bd1d9fa6947817ceeaa43213dfbc5b32b30615163ba0338ac66" kind="enumvalue"><name>Ampul</name></member>
+    <member refid="namespace_app_web_api_1a97aa57091f3e10bd1d9fa6947817ceeaa4492081ca02b059f9e8af4ddaf0f7292" kind="enumvalue"><name>Pack</name></member>
+  </compound>
+  <compound refid="namespace_bussines_core" kind="namespace"><name>BussinesCore</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core" kind="namespace"><name>Microsoft::AspNetCore</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_authentication_1_1_jwt_bearer" kind="namespace"><name>Microsoft::AspNetCore::Authentication::JwtBearer</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_builder" kind="namespace"><name>Microsoft::AspNetCore::Builder</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_hosting" kind="namespace"><name>Microsoft::AspNetCore::Hosting</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_identity" kind="namespace"><name>Microsoft::AspNetCore::Identity</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_identity_1_1_entity_framework_core" kind="namespace"><name>Microsoft::AspNetCore::Identity::EntityFrameworkCore</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_entity_framework_core" kind="namespace"><name>Microsoft::EntityFrameworkCore</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_extensions_1_1_configuration" kind="namespace"><name>Microsoft::Extensions::Configuration</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_extensions_1_1_dependency_injection" kind="namespace"><name>Microsoft::Extensions::DependencyInjection</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_extensions_1_1_logging" kind="namespace"><name>Microsoft::Extensions::Logging</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_extensions_1_1_options" kind="namespace"><name>Microsoft::Extensions::Options</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_identity_model_1_1_tokens" kind="namespace"><name>Microsoft::IdentityModel::Tokens</name>
+  </compound>
+  <compound refid="namespace_ocph_1_1_d_a_l" kind="namespace"><name>Ocph::DAL</name>
+  </compound>
+  <compound refid="namespace_ocph_1_1_d_a_l_1_1_provider_1_1_my_sql" kind="namespace"><name>Ocph::DAL::Provider::MySql</name>
+  </compound>
+  <compound refid="namespace_swashbuckle_1_1_asp_net_core_1_1_swagger" kind="namespace"><name>Swashbuckle::AspNetCore::Swagger</name>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespace_system_1_1_collections_1_1_generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespace_system_1_1_identity_model_1_1_tokens_1_1_jwt" kind="namespace"><name>System::IdentityModel::Tokens::Jwt</name>
+  </compound>
+  <compound refid="namespace_system_1_1_i_o" kind="namespace"><name>System::IO</name>
+  </compound>
+  <compound refid="namespace_system_1_1_linq" kind="namespace"><name>System::Linq</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text" kind="namespace"><name>System::Text</name>
+  </compound>
+  <compound refid="namespace_system_1_1_threading_1_1_tasks" kind="namespace"><name>System::Threading::Tasks</name>
+  </compound>
+  <compound refid="_app_shared_2_data_transfer_2_obat_8cs" kind="file"><name>Obat.cs</name>
+  </compound>
+  <compound refid="_bussines_core_2_obat_8cs" kind="file"><name>Obat.cs</name>
+  </compound>
+  <compound refid="_app_shared_2_data_transfer_2_pemesanan_8cs" kind="file"><name>Pemesanan.cs</name>
+  </compound>
+  <compound refid="_bussines_core_2_pemesanan_8cs" kind="file"><name>Pemesanan.cs</name>
+  </compound>
+  <compound refid="_app_shared_2_data_transfer_2_petugas_8cs" kind="file"><name>Petugas.cs</name>
+  </compound>
+  <compound refid="_bussines_core_2_petugas_8cs" kind="file"><name>Petugas.cs</name>
+  </compound>
+  <compound refid="supllier_8cs" kind="file"><name>supllier.cs</name>
+  </compound>
+  <compound refid="_app_shared_2_data_transfer_2_supplier_8cs" kind="file"><name>Supplier.cs</name>
+  </compound>
+  <compound refid="_bussines_core_2_supplier_8cs" kind="file"><name>Supplier.cs</name>
+  </compound>
+  <compound refid="_application_db_context_8cs" kind="file"><name>ApplicationDbContext.cs</name>
+  </compound>
+  <compound refid="_program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="_satuan_obat_8cs" kind="file"><name>SatuanObat.cs</name>
+  </compound>
+  <compound refid="_startup_8cs" kind="file"><name>Startup.cs</name>
+  </compound>
+  <compound refid="_account_8cs" kind="file"><name>Account.cs</name>
+  </compound>
+  <compound refid="_ocph_db_context_8cs" kind="file"><name>OcphDbContext.cs</name>
+  </compound>
+  <compound refid="dir_065a2241853eda1e9adb604a7ddcbabd" kind="dir"><name>D:/Projects/2018</name>
+  </compound>
+  <compound refid="dir_c6bebd090054b207633806c4a56e7f1a" kind="dir"><name>D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared</name>
+  </compound>
+  <compound refid="dir_da744426912d243ca728d6122777d8b2" kind="dir"><name>D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppWebApi</name>
+  </compound>
+  <compound refid="dir_5aac3fd1ad5c74a3ed766961b2abf18c" kind="dir"><name>D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore</name>
+  </compound>
+  <compound refid="dir_275089585c7fc1b5fd5d7d42c69cb1da" kind="dir"><name>D:</name>
+  </compound>
+  <compound refid="dir_bac953935e6e6df900c436c61f8977fc" kind="dir"><name>D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer</name>
+  </compound>
+  <compound refid="dir_de4a75afbb1b663d9fbdcd52058a895f" kind="dir"><name>D:/Projects/2018/Skripsi/NayaUSTJ</name>
+  </compound>
+  <compound refid="dir_07da086eec53dc080d2c079e1d520b85" kind="dir"><name>D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat</name>
+  </compound>
+  <compound refid="dir_3aa408e5592a3da75f0936fc95e1166b" kind="dir"><name>D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat</name>
+  </compound>
+  <compound refid="dir_70399fa3d88a5292b2b41a1f3fe3e4e2" kind="dir"><name>D:/Projects</name>
+  </compound>
+  <compound refid="dir_88de73c020b32c1de2becec3647b33b6" kind="dir"><name>D:/Projects/2018/Skripsi</name>
+  </compound>
+</doxygenindex>

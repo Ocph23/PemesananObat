@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="namespace_bussines_core" kind="namespace">
+    <compoundname>BussinesCore</compoundname>
+    <innerclass refid="class_bussines_core_1_1_account" prot="public">BussinesCore::Account</innerclass>
+    <innerclass refid="class_bussines_core_1_1_obat" prot="public">BussinesCore::Obat</innerclass>
+    <innerclass refid="class_bussines_core_1_1_ocph_db_context" prot="public">BussinesCore::OcphDbContext</innerclass>
+    <innerclass refid="class_bussines_core_1_1_pemesanan" prot="public">BussinesCore::Pemesanan</innerclass>
+    <innerclass refid="class_bussines_core_1_1_petugas" prot="public">BussinesCore::Petugas</innerclass>
+    <innerclass refid="class_bussines_core_1_1_supplier" prot="public">BussinesCore::Supplier</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/Account.cs" line="6" column="1"/>
+  </compounddef>
+</doxygen>

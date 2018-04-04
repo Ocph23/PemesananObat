@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_app_shared_1_1_data_transfer_1_1_petugas" kind="class" prot="public">
+    <compoundname>AppShared::DataTransfer::Petugas</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_app_shared_1_1_data_transfer_1_1_petugas_1a2b7d75e60680fadd2af86dde9d1b6ada" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int AppShared.DataTransfer.Petugas.id</definition>
+        <argsstring></argsstring>
+        <name>id</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Petugas.cs" line="9" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Petugas.cs" bodystart="9" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_app_shared_1_1_data_transfer_1_1_petugas_1a323dfc4033dbd958ef52b1816bcbc58e" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string AppShared.DataTransfer.Petugas.nama</definition>
+        <argsstring></argsstring>
+        <name>nama</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Petugas.cs" line="17" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Petugas.cs" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_app_shared_1_1_data_transfer_1_1_petugas_1aad82a5dbf5b493b06052dab4f076469d" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>int</type>
+        <definition>int AppShared.DataTransfer.Petugas.Id</definition>
+        <argsstring></argsstring>
+        <name>Id</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Petugas.cs" line="11" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Petugas.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_app_shared_1_1_data_transfer_1_1_petugas_1ab98dec023525d0dd7fdcffbbea99f246" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string AppShared.DataTransfer.Petugas.Nama</definition>
+        <argsstring></argsstring>
+        <name>Nama</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Petugas.cs" line="19" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Petugas.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_app_shared_1_1_data_transfer_1_1_petugas_1a87ed200b1e38db7bed9040819046d981" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>ICollection&lt; <ref refid="class_app_shared_1_1_data_transfer_1_1_pemesanan" kindref="compound">Pemesanan</ref> &gt;</type>
+        <definition>virtual ICollection&lt;Pemesanan&gt; AppShared.DataTransfer.Petugas.Pesanan</definition>
+        <argsstring></argsstring>
+        <name>Pesanan</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Petugas.cs" line="26" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Petugas.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Petugas.cs" line="8" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Petugas.cs" bodystart="7" bodyend="28"/>
+    <listofallmembers>
+      <member refid="class_app_shared_1_1_data_transfer_1_1_petugas_1a2b7d75e60680fadd2af86dde9d1b6ada" prot="private" virt="non-virtual"><scope>AppShared::DataTransfer::Petugas</scope><name>id</name></member>
+      <member refid="class_app_shared_1_1_data_transfer_1_1_petugas_1aad82a5dbf5b493b06052dab4f076469d" prot="public" virt="non-virtual"><scope>AppShared::DataTransfer::Petugas</scope><name>Id</name></member>
+      <member refid="class_app_shared_1_1_data_transfer_1_1_petugas_1ab98dec023525d0dd7fdcffbbea99f246" prot="public" virt="non-virtual"><scope>AppShared::DataTransfer::Petugas</scope><name>Nama</name></member>
+      <member refid="class_app_shared_1_1_data_transfer_1_1_petugas_1a323dfc4033dbd958ef52b1816bcbc58e" prot="private" virt="non-virtual"><scope>AppShared::DataTransfer::Petugas</scope><name>nama</name></member>
+      <member refid="class_app_shared_1_1_data_transfer_1_1_petugas_1a87ed200b1e38db7bed9040819046d981" prot="public" virt="non-virtual"><scope>AppShared::DataTransfer::Petugas</scope><name>Pesanan</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

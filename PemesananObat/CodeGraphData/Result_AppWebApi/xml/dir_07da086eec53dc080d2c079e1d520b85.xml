@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_07da086eec53dc080d2c079e1d520b85" kind="dir">
+    <compoundname>D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat</compoundname>
+    <innerdir refid="dir_c6bebd090054b207633806c4a56e7f1a">D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared</innerdir>
+    <innerdir refid="dir_da744426912d243ca728d6122777d8b2">D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppWebApi</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/"/>
+  </compounddef>
+</doxygen>

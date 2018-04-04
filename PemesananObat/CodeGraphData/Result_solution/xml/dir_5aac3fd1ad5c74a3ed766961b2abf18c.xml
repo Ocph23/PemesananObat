@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_5aac3fd1ad5c74a3ed766961b2abf18c" kind="dir">
+    <compoundname>D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore</compoundname>
+    <innerfile refid="_account_8cs">Account.cs</innerfile>
+    <innerfile refid="_bussines_core_2_obat_8cs">Obat.cs</innerfile>
+    <innerfile refid="_ocph_db_context_8cs">OcphDbContext.cs</innerfile>
+    <innerfile refid="_bussines_core_2_pemesanan_8cs">Pemesanan.cs</innerfile>
+    <innerfile refid="_bussines_core_2_petugas_8cs">Petugas.cs</innerfile>
+    <innerfile refid="_bussines_core_2_supplier_8cs">Supplier.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore/"/>
+  </compounddef>
+</doxygen>

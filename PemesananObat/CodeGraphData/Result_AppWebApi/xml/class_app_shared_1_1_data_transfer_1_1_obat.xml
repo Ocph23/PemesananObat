@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_app_shared_1_1_data_transfer_1_1_obat" kind="class" prot="public">
+    <compoundname>AppShared::DataTransfer::Obat</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_app_shared_1_1_data_transfer_1_1_obat_1a06922dd29cc5a5f5506ca550258ed300" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>int</type>
+        <definition>int AppShared.DataTransfer.Obat.Id</definition>
+        <argsstring></argsstring>
+        <name>Id</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Obat.cs" line="10" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Obat.cs" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_app_shared_1_1_data_transfer_1_1_obat_1a99fecd3916aedceb42e758fda758c043" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string AppShared.DataTransfer.Obat.Name</definition>
+        <argsstring></argsstring>
+        <name>Name</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Obat.cs" line="12" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Obat.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_app_shared_1_1_data_transfer_1_1_obat_1a10dd7e05eb8d1fca0dda980ae707397e" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="namespace_app_web_api_1a97aa57091f3e10bd1d9fa6947817ceea" kindref="member">SatuanObat</ref></type>
+        <definition>SatuanObat AppShared.DataTransfer.Obat.Satuan</definition>
+        <argsstring></argsstring>
+        <name>Satuan</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Obat.cs" line="14" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Obat.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_app_shared_1_1_data_transfer_1_1_obat_1a5662f709d875828b513015e8b50d7959" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="class_app_shared_1_1_data_transfer_1_1_supplier" kindref="compound">Supplier</ref></type>
+        <definition>virtual Supplier AppShared.DataTransfer.Obat.Supplier</definition>
+        <argsstring></argsstring>
+        <name>Supplier</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Obat.cs" line="16" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Obat.cs" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Obat.cs" line="9" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Obat.cs" bodystart="8" bodyend="18"/>
+    <listofallmembers>
+      <member refid="class_app_shared_1_1_data_transfer_1_1_obat_1a06922dd29cc5a5f5506ca550258ed300" prot="public" virt="non-virtual"><scope>AppShared::DataTransfer::Obat</scope><name>Id</name></member>
+      <member refid="class_app_shared_1_1_data_transfer_1_1_obat_1a99fecd3916aedceb42e758fda758c043" prot="public" virt="non-virtual"><scope>AppShared::DataTransfer::Obat</scope><name>Name</name></member>
+      <member refid="class_app_shared_1_1_data_transfer_1_1_obat_1a10dd7e05eb8d1fca0dda980ae707397e" prot="public" virt="non-virtual"><scope>AppShared::DataTransfer::Obat</scope><name>Satuan</name></member>
+      <member refid="class_app_shared_1_1_data_transfer_1_1_obat_1a5662f709d875828b513015e8b50d7959" prot="public" virt="non-virtual"><scope>AppShared::DataTransfer::Obat</scope><name>Supplier</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

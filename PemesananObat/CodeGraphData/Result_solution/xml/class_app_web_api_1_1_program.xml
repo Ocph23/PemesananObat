@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_app_web_api_1_1_program" kind="class" prot="public">
+    <compoundname>AppWebApi::Program</compoundname>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_app_web_api_1_1_program_1adcd6a30eddfe8c9bd80ecd079d809988" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void AppWebApi.Program.Main</definition>
+        <argsstring>(string[] args)</argsstring>
+        <name>Main</name>
+        <param>
+          <type>string[]</type>
+          <declname>args</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppWebApi/Program.cs" line="15" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppWebApi/Program.cs" bodystart="15" bodyend="18"/>
+        <references refid="class_app_web_api_1_1_program_1a4c94ebf9ce2c7fa00a70c38d5180f9b1">AppWebApi.Program.BuildWebHost</references>
+      </memberdef>
+      <memberdef kind="function" id="class_app_web_api_1_1_program_1a4c94ebf9ce2c7fa00a70c38d5180f9b1" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>IWebHost</type>
+        <definition>static IWebHost AppWebApi.Program.BuildWebHost</definition>
+        <argsstring>(string[] args)</argsstring>
+        <name>BuildWebHost</name>
+        <param>
+          <type>string[]</type>
+          <declname>args</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppWebApi/Program.cs" line="20" column="1"/>
+        <referencedby refid="class_app_web_api_1_1_program_1adcd6a30eddfe8c9bd80ecd079d809988" compoundref="_program_8cs" startline="15" endline="18">AppWebApi.Program.Main</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppWebApi/Program.cs" line="14" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppWebApi/Program.cs" bodystart="13" bodyend="25"/>
+    <listofallmembers>
+      <member refid="class_app_web_api_1_1_program_1a4c94ebf9ce2c7fa00a70c38d5180f9b1" prot="public" virt="non-virtual"><scope>AppWebApi::Program</scope><name>BuildWebHost</name></member>
+      <member refid="class_app_web_api_1_1_program_1adcd6a30eddfe8c9bd80ecd079d809988" prot="public" virt="non-virtual"><scope>AppWebApi::Program</scope><name>Main</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

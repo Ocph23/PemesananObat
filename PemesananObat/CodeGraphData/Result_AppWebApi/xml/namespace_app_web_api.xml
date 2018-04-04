@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="namespace_app_web_api" kind="namespace">
+    <compoundname>AppWebApi</compoundname>
+    <innerclass refid="class_app_web_api_1_1_application_db_context" prot="public">AppWebApi::ApplicationDbContext</innerclass>
+    <innerclass refid="class_app_web_api_1_1_program" prot="public">AppWebApi::Program</innerclass>
+    <innerclass refid="class_app_web_api_1_1_startup" prot="public">AppWebApi::Startup</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_app_web_api_1a97aa57091f3e10bd1d9fa6947817ceea" prot="public" static="no">
+        <name>SatuanObat</name>
+        <enumvalue id="namespace_app_web_api_1a97aa57091f3e10bd1d9fa6947817ceeaa36384a9ea3ec791e6bd4ab6b36f2ff2a" prot="public">
+          <name>Tablet</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_app_web_api_1a97aa57091f3e10bd1d9fa6947817ceeaa72adf1d92af73843d3197346de98c13e" prot="public">
+          <name>Botol</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_app_web_api_1a97aa57091f3e10bd1d9fa6947817ceeaa43213dfbc5b32b30615163ba0338ac66" prot="public">
+          <name>Ampul</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_app_web_api_1a97aa57091f3e10bd1d9fa6947817ceeaa4492081ca02b059f9e8af4ddaf0f7292" prot="public">
+          <name>Pack</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppWebApi/SatuanObat.cs" line="4" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppWebApi/SatuanObat.cs" bodystart="3" bodyend="6"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppWebApi/ApplicationDbContext.cs" line="9" column="1"/>
+  </compounddef>
+</doxygen>

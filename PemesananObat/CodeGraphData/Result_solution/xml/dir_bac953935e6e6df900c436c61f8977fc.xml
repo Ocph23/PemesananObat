@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_bac953935e6e6df900c436c61f8977fc" kind="dir">
+    <compoundname>D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer</compoundname>
+    <innerfile refid="_app_shared_2_data_transfer_2_obat_8cs">Obat.cs</innerfile>
+    <innerfile refid="_app_shared_2_data_transfer_2_pemesanan_8cs">Pemesanan.cs</innerfile>
+    <innerfile refid="_app_shared_2_data_transfer_2_petugas_8cs">Petugas.cs</innerfile>
+    <innerfile refid="supllier_8cs">supllier.cs</innerfile>
+    <innerfile refid="_app_shared_2_data_transfer_2_supplier_8cs">Supplier.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/"/>
+  </compounddef>
+</doxygen>

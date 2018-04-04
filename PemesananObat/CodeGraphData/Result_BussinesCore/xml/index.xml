@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.6">
+  <compound refid="class_bussines_core_1_1_account" kind="class"><name>BussinesCore::Account</name>
+  </compound>
+  <compound refid="class_bussines_core_1_1_obat" kind="class"><name>BussinesCore::Obat</name>
+  </compound>
+  <compound refid="class_bussines_core_1_1_ocph_db_context" kind="class"><name>BussinesCore::OcphDbContext</name>
+    <member refid="class_bussines_core_1_1_ocph_db_context_1a50ba29c20a0e5246c1cd1376605eedb8" kind="variable"><name>constring</name></member>
+    <member refid="class_bussines_core_1_1_ocph_db_context_1a023b49958f97e4a6d11916b7b16abad2" kind="function"><name>OcphDbContext</name></member>
+  </compound>
+  <compound refid="class_bussines_core_1_1_pemesanan" kind="class"><name>BussinesCore::Pemesanan</name>
+    <member refid="class_bussines_core_1_1_pemesanan_1a3062fd86cdb00919531ac90c741f14f3" kind="property"><name>ID</name></member>
+    <member refid="class_bussines_core_1_1_pemesanan_1abd78052de0a6b23ec5d444abc74fb506" kind="function"><name>Save</name></member>
+  </compound>
+  <compound refid="class_bussines_core_1_1_petugas" kind="class"><name>BussinesCore::Petugas</name>
+    <member refid="class_bussines_core_1_1_petugas_1a979735a6b49a1bc6741b8e3ad06ba211" kind="variable"><name>pemesanan</name></member>
+    <member refid="class_bussines_core_1_1_petugas_1abdc0cad7d07e83c6bb8fc2e2c51bc193" kind="variable"><name>sup</name></member>
+    <member refid="class_bussines_core_1_1_petugas_1a1ff2a8a37942b5487862168758ceff97" kind="function"><name>BuatPesanan</name></member>
+    <member refid="class_bussines_core_1_1_petugas_1a9cb80606f62e25ec1e049c7e7aed560a" kind="function"><name>SavedChange</name></member>
+  </compound>
+  <compound refid="class_bussines_core_1_1_supplier" kind="class"><name>BussinesCore::Supplier</name>
+    <member refid="class_bussines_core_1_1_supplier_1a8343d738a1b7e6e02b4fed5edf6b4cb6" kind="function"><name>SaveApplication</name></member>
+  </compound>
+  <compound refid="namespace_bussines_core" kind="namespace"><name>BussinesCore</name>
+  </compound>
+  <compound refid="namespace_ocph_1_1_d_a_l" kind="namespace"><name>Ocph::DAL</name>
+  </compound>
+  <compound refid="namespace_ocph_1_1_d_a_l_1_1_provider_1_1_my_sql" kind="namespace"><name>Ocph::DAL::Provider::MySql</name>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespace_system_1_1_collections_1_1_generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text" kind="namespace"><name>System::Text</name>
+  </compound>
+  <compound refid="_account_8cs" kind="file"><name>Account.cs</name>
+  </compound>
+  <compound refid="_obat_8cs" kind="file"><name>Obat.cs</name>
+  </compound>
+  <compound refid="_ocph_db_context_8cs" kind="file"><name>OcphDbContext.cs</name>
+  </compound>
+  <compound refid="_pemesanan_8cs" kind="file"><name>Pemesanan.cs</name>
+  </compound>
+  <compound refid="_petugas_8cs" kind="file"><name>Petugas.cs</name>
+  </compound>
+  <compound refid="_supplier_8cs" kind="file"><name>Supplier.cs</name>
+  </compound>
+  <compound refid="dir_065a2241853eda1e9adb604a7ddcbabd" kind="dir"><name>D:/Projects/2018</name>
+  </compound>
+  <compound refid="dir_5aac3fd1ad5c74a3ed766961b2abf18c" kind="dir"><name>D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/BussinesCore</name>
+  </compound>
+  <compound refid="dir_275089585c7fc1b5fd5d7d42c69cb1da" kind="dir"><name>D:</name>
+  </compound>
+  <compound refid="dir_de4a75afbb1b663d9fbdcd52058a895f" kind="dir"><name>D:/Projects/2018/Skripsi/NayaUSTJ</name>
+  </compound>
+  <compound refid="dir_07da086eec53dc080d2c079e1d520b85" kind="dir"><name>D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat</name>
+  </compound>
+  <compound refid="dir_3aa408e5592a3da75f0936fc95e1166b" kind="dir"><name>D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat</name>
+  </compound>
+  <compound refid="dir_70399fa3d88a5292b2b41a1f3fe3e4e2" kind="dir"><name>D:/Projects</name>
+  </compound>
+  <compound refid="dir_88de73c020b32c1de2becec3647b33b6" kind="dir"><name>D:/Projects/2018/Skripsi</name>
+  </compound>
+</doxygenindex>

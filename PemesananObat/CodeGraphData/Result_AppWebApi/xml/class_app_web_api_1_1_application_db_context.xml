@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_app_web_api_1_1_application_db_context" kind="class" prot="public">
+    <compoundname>AppWebApi::ApplicationDbContext</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">IdentityDbContext</basecompoundref>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_app_web_api_1_1_application_db_context_1a310d14b81e5475219a9097062c643043" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void AppWebApi.ApplicationDbContext.OnConfiguring</definition>
+        <argsstring>(DbContextOptionsBuilder optionsBuilder)</argsstring>
+        <name>OnConfiguring</name>
+        <param>
+          <type>DbContextOptionsBuilder</type>
+          <declname>optionsBuilder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppWebApi/ApplicationDbContext.cs" line="12" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppWebApi/ApplicationDbContext.cs" bodystart="12" bodyend="15"/>
+        <references refid="class_app_web_api_1_1_application_db_context_1a32c003cb04aa5903978bda7b3939ac0d" compoundref="_application_db_context_8cs" startline="17" endline="28">AppWebApi.ApplicationDbContext.GetConnection</references>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_app_web_api_1_1_application_db_context_1a32c003cb04aa5903978bda7b3939ac0d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>string AppWebApi.ApplicationDbContext.GetConnection</definition>
+        <argsstring>()</argsstring>
+        <name>GetConnection</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppWebApi/ApplicationDbContext.cs" line="17" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppWebApi/ApplicationDbContext.cs" bodystart="17" bodyend="28"/>
+        <referencedby refid="class_app_web_api_1_1_application_db_context_1a310d14b81e5475219a9097062c643043" compoundref="_application_db_context_8cs" startline="12" endline="15">AppWebApi.ApplicationDbContext.OnConfiguring</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="0">
+        <label>AppWebApi.ApplicationDbContext</label>
+        <link refid="class_app_web_api_1_1_application_db_context"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>IdentityDbContext</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>AppWebApi.ApplicationDbContext</label>
+        <link refid="class_app_web_api_1_1_application_db_context"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>IdentityDbContext</label>
+      </node>
+    </collaborationgraph>
+    <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppWebApi/ApplicationDbContext.cs" line="11" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppWebApi/ApplicationDbContext.cs" bodystart="10" bodyend="29"/>
+    <listofallmembers>
+      <member refid="class_app_web_api_1_1_application_db_context_1a32c003cb04aa5903978bda7b3939ac0d" prot="private" virt="non-virtual"><scope>AppWebApi::ApplicationDbContext</scope><name>GetConnection</name></member>
+      <member refid="class_app_web_api_1_1_application_db_context_1a310d14b81e5475219a9097062c643043" prot="protected" virt="non-virtual"><scope>AppWebApi::ApplicationDbContext</scope><name>OnConfiguring</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

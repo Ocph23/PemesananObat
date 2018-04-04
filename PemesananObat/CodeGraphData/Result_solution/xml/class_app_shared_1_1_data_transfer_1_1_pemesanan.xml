@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_app_shared_1_1_data_transfer_1_1_pemesanan" kind="class" prot="public">
+    <compoundname>AppShared::DataTransfer::Pemesanan</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_app_shared_1_1_data_transfer_1_1_pemesanan_1abf829e0e9a98200d476707906bcb8838" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int AppShared.DataTransfer.Pemesanan.id</definition>
+        <argsstring></argsstring>
+        <name>id</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Pemesanan.cs" line="9" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Pemesanan.cs" bodystart="9" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_app_shared_1_1_data_transfer_1_1_pemesanan_1a91ead06f8ef22bad75807b83e1c93786" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>int</type>
+        <definition>int AppShared.DataTransfer.Pemesanan.Id</definition>
+        <argsstring></argsstring>
+        <name>Id</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Pemesanan.cs" line="11" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Pemesanan.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_app_shared_1_1_data_transfer_1_1_pemesanan_1a1fd99a716582b0488a2ec87e522366fa" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>DateTime</type>
+        <definition>DateTime AppShared.DataTransfer.Pemesanan.Tanggal</definition>
+        <argsstring></argsstring>
+        <name>Tanggal</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Pemesanan.cs" line="17" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Pemesanan.cs" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_app_shared_1_1_data_transfer_1_1_pemesanan_1ab5af11e968e889ff6fe3f3558d9d570d" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="class_app_shared_1_1_data_transfer_1_1_petugas" kindref="compound">Petugas</ref></type>
+        <definition>virtual Petugas AppShared.DataTransfer.Pemesanan.Petugas</definition>
+        <argsstring></argsstring>
+        <name>Petugas</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Pemesanan.cs" line="19" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Pemesanan.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_app_shared_1_1_data_transfer_1_1_pemesanan_1ae4004993ad83d7e53d25ba81edb06483" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>ICollection&lt; <ref refid="class_app_shared_1_1_data_transfer_1_1_obat" kindref="compound">Obat</ref> &gt;</type>
+        <definition>virtual ICollection&lt;Obat&gt; AppShared.DataTransfer.Pemesanan.Obats</definition>
+        <argsstring></argsstring>
+        <name>Obats</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Pemesanan.cs" line="21" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Pemesanan.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Pemesanan.cs" line="8" column="1" bodyfile="D:/Projects/2018/Skripsi/NayaUSTJ/PemesananObat/PemesananObat/AppShared/DataTransfer/Pemesanan.cs" bodystart="7" bodyend="23"/>
+    <listofallmembers>
+      <member refid="class_app_shared_1_1_data_transfer_1_1_pemesanan_1abf829e0e9a98200d476707906bcb8838" prot="private" virt="non-virtual"><scope>AppShared::DataTransfer::Pemesanan</scope><name>id</name></member>
+      <member refid="class_app_shared_1_1_data_transfer_1_1_pemesanan_1a91ead06f8ef22bad75807b83e1c93786" prot="public" virt="non-virtual"><scope>AppShared::DataTransfer::Pemesanan</scope><name>Id</name></member>
+      <member refid="class_app_shared_1_1_data_transfer_1_1_pemesanan_1ae4004993ad83d7e53d25ba81edb06483" prot="public" virt="non-virtual"><scope>AppShared::DataTransfer::Pemesanan</scope><name>Obats</name></member>
+      <member refid="class_app_shared_1_1_data_transfer_1_1_pemesanan_1ab5af11e968e889ff6fe3f3558d9d570d" prot="public" virt="non-virtual"><scope>AppShared::DataTransfer::Pemesanan</scope><name>Petugas</name></member>
+      <member refid="class_app_shared_1_1_data_transfer_1_1_pemesanan_1a1fd99a716582b0488a2ec87e522366fa" prot="public" virt="non-virtual"><scope>AppShared::DataTransfer::Pemesanan</scope><name>Tanggal</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
